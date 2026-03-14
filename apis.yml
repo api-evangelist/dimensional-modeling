@@ -1,0 +1,16 @@
+name: Dimensional Modeling
+description: A data modeling technique used in data warehousing that structures data
+  into fact tables containing measurable metrics and dimension tables containing descriptive
+  attributes, optimized for query performance and business intelligence reporting.
+  Organizations use it to track key metrics, identify trends, and optimize business
+  outcomes.
+url: https://en.wikipedia.org/wiki/Dimensional_modeling
+tags:
+- Data Warehousing
+- Business Intelligence
+- Data Modeling
+- Analytics
+created: '2025'
+modified: '2025'
+apis: []
+common: []
