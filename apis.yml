@@ -1,16 +1,24 @@
+aid: dimensional-modeling
 name: Dimensional Modeling
-description: A data modeling technique used in data warehousing that structures data
-  into fact tables containing measurable metrics and dimension tables containing descriptive
-  attributes, optimized for query performance and business intelligence reporting.
-  Organizations use it to track key metrics, identify trends, and optimize business
-  outcomes.
-url: https://en.wikipedia.org/wiki/Dimensional_modeling
+description: >-
+  A data modeling technique used in data warehousing that structures data
+  into fact tables containing measurable metrics and dimension tables containing
+  descriptive attributes, optimized for query performance and business
+  intelligence reporting. Organizations use it to track key metrics, identify
+  trends, and optimize business outcomes.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Data Warehousing
-- Business Intelligence
-- Data Modeling
-- Analytics
-created: '2025'
-modified: '2025'
+  - Data Warehousing
+  - Business Intelligence
+  - Data Modeling
+  - Analytics
+url: https://en.wikipedia.org/wiki/Dimensional_modeling
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
