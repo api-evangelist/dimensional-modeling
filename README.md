@@ -1,4 +1,4 @@
-# Dimensional Modeling (dimensional-modeling)
+# dimensional-modeling
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,27 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-A data modeling technique used in data warehousing that structures data into fact tables containing measurable metrics and dimension tables containing descriptive attributes, optimized for query performance and business intelligence reporting. Organizations use it to track key metrics, identify trends, and optimize business outcomes.
+## dimensional-modeling on APIs.io
 
-**URL:** [Visit APIs.json URL](https://en.wikipedia.org/wiki/Dimensional_modeling)
+Everything profiled for dimensional-modeling is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dimensional-modeling/](https://apis.io/providers/dimensional-modeling/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Not yet rated. See [apis.io/providers/dimensional-modeling/](https://apis.io/providers/dimensional-modeling/).
 
-## Tags:
+## How this profile is made
 
- - Data Warehousing, Business Intelligence, Data Modeling, Analytics
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for dimensional-modeling: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-04-28 
+## Open an issue
 
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dimensional-modeling/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
